@@ -1,0 +1,12 @@
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\bin\Debug\Gulyaev_AG_8.exe.config
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\bin\Debug\Gulyaev_AG_8.exe
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\bin\Debug\Gulyaev_AG_8.pdb
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.Form1.resources
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.FormAdd.resources
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.FormSearch.resources
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.Properties.Resources.resources
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.csproj.GenerateResource.cache
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.exe
+C:\Users\Alexandr\source\repos\Gulyaev_AG_8\Gulyaev_AG_8\obj\Debug\Gulyaev_AG_8.pdb

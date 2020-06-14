@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Records>
+	<record>
+		<year>1</year>
+		<group>11</group>
+		<lastName>LastName1</lastName>
+		<recordBook>31 1</recordBook>
+		<subject>Database</subject>
+		<grade>5</grade>
+	</record>
+
+	<record>
+		<year>2</year>
+		<group>21</group>
+		<lastName>LastName2</lastName>
+		<recordBook>312</recordBook>
+		<subject>Database</subject>
+		<grade>3</grade>
+	</record>
+
+	<record>
+		<year>1</year>
+		<group>11</group>
+		<lastName>LastName1</lastName>
+		<recordBook>311</recordBook>
+		<subject>MathStat</subject>
+		<grade>5</grade>
+	</record>
+
+	<record>
+		<year>1</year>
+		<group>13</group>
+		<lastName>LastName3</lastName>
+		<recordBook>331</recordBook>
+		<subject>MathStat</subject>
+		<grade>4</grade>
+	</record>
+
+	<record>
+		<year>2</year>
+		<group>21</group>
+		<lastName>LastName2</lastName>
+		<recordBook>312</recordBook>
+		<subject>Database</subject>
+		<grade>3</grade>
+	</record>
+</Records>
